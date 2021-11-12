@@ -10,6 +10,14 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:Label ID="Label1" runat="server" Text="喵喵"></asp:Label><br />
+            <asp:Label ID="Label2" runat="server" Text="12345"></asp:Label><br />
+            <asp:Label ID="Label3" runat="server" Text="網頁廣告"></asp:Label><br />
+            <asp:Label ID="Label4" runat="server" Text="電視"></asp:Label><br />
+            <asp:Label ID="Label5" runat="server" Text="7054"></asp:Label><br />
+            <asp:Label ID="Label6" runat="server" Text="812469E49663025B39E8D25FDAAD81A7"></asp:Label><br />
+            <asp:Label ID="Label7" runat="server" Text="812469E49663025B39E8D25FDAAD81A7"></asp:Label><br />
+
         </div>
     </form>
 </body>
